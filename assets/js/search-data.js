@@ -493,13 +493,6 @@ ninja.data = [{
           window.open("mailto:%67%6F%6E%7A%61%63%30%35%31%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
