@@ -13,7 +13,7 @@ profile:
     <p>Canada</p>
     <p></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,5 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This website is currently under development!!
+This website is currently under development, please come back soon!!
 
