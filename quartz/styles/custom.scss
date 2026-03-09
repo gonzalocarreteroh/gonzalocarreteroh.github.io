@@ -1,3 +1,26 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Responsive profile picture styles
+.profile-pic {
+  border-radius: 10%;
+
+  // Mobile: center the image, smaller size
+  @media (max-width: 767px) {
+    display: block;
+    width: 150px;
+    max-width: 60vw;
+    margin: 0 auto 1.5rem auto;
+    float: none;
+  }
+
+  // Desktop: float right, larger size
+  @media (min-width: 768px) {
+    float: right;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: -20px;
+    margin-bottom: 1rem;
+  }
+}
