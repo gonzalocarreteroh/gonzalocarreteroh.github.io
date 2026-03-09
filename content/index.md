@@ -15,7 +15,7 @@ In my free time, I like playing [[Ultimate Frisbee]] or [[Tennis]], [[Reading]] 
 > 
 
 > [!NOTE]- How to use this website
-> This website is composed on a collection of Markdown files I have written. Any two files are linked if they mention each other (e.g. links look like this: [[Computer Science]]). You can traverse through different notes by clicking on the links, finding keywords in the search bar (top left of the website) or by exploring the graph of all note connections (top right of the website). Some notes may appear as private or empty as I have not yet shared or populated them.
+> This website is composed of a collection of Markdown files I have written. Any two files are linked if they mention each other (e.g. links look like this: [[Computer Science]]). You can traverse through different notes by clicking on the links, finding keywords in the search bar (top left of the website) or by exploring the graph of all note connections (top right of the website). Some notes may appear as private or empty as I have not yet shared or populated them.
 > 
 > I highly recommend checking https://stevengong.co/ to get an idea of a similar website. I was inspired by him to build my own based on some of my personal notes
 
