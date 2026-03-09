@@ -8,5 +8,14 @@ Hi! This is my personal website. Please feel free to learn a bit more about me o
 
 I'm a [[Computer Science]] and Engineering graduate. I studied at The Hong Kong University of Science and Technology ([[HKUST]]), the [[University of Waterloo]] and [[UC3M]]. Currently, I am a Backend Software Engineer at [[MasOrange]].
 
+In my free time, I like playing [[Ultimate Frisbee]] or [[Tennis]], [[Reading]] and learning new things.
 
+> [!NOTE]- Purpose of this website
+> My aim is to share in in this website some of my notes on different topics I am interested about, hoping they can be helpful to others. As I am always **learning**, please do verify any important information. I would appreciate a lot if you could share with me any potential errors you find. Any collaborations on projects or discussions on any topic are also very welcome! Feel free to reach out to me through any of the social links at the bottom of the page
+> 
+
+> [!NOTE]- How to use this website
+> This website is composed on a collection of Markdown files I have written. Any two files are linked if they mention each other (e.g. links look like this: [[Computer Science]]). You can traverse through different notes by clicking on the links, finding keywords in the search bar (top left of the website) or by exploring the graph of all note connections (top right of the website). Some notes may appear as private or empty as I have not yet shared or populated them.
+> 
+> I highly recommend checking https://stevengong.co/ to get an idea of a similar website. I was inspired by him to build my own based on some of my personal notes
 
