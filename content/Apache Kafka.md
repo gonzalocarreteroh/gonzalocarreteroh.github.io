@@ -6,7 +6,7 @@ Direct communication between different services in a micro services architecture
 ##### Post Office Analogy
 Let's consider the scenario of people sending letters to each other. Rather than writing letters and having to physically deliver them to the recipient (time consuming), you can just leave them at the post office and let them handle the communication. In this way, you can dedicate all your time to writing.
 
-Now, some people want to send letters, others packages, documents, etc. The post office usually has a different queues to process each type of incoming delivery. Furthermore, for highly busy queues (e.g. packages), the post office can add more workers that handle packages targeted to Europe, others to Asia, and so on.
+Some people want to send letters, others packages, documents, etc. The post office usually has different queues to process each type of incoming delivery. Furthermore, for highly busy queues (e.g. packages), the post office can add more workers that handle packages targeted to Europe, others to Asia, and so on.
 
 ![[kafka1.png]]
 
@@ -28,7 +28,7 @@ A broker is a server. Having many is like having many post office locations (sca
 A topic partition can be distributed in many brokers. Thus, each partition has a **leader broker** and multiple replicas
 
 #### Consumer Groups
-A service pod will identify itself with a group ID (e.g. "billing-team"). When you scale a service and many equivalent pods are created (creating a consumer group), Kafka nows which type are they because of the group ID. Kafka will automatically distribute topic partitions to point to different replicas in the same consumer group (load balancing). If a pod fails, Kafka redirects the topic partition to point to a different pod that is alive.
+A service pod will identify itself with a group ID (e.g. "billing-team"). When you scale a service and many equivalent pods are created (creating a consumer group), Kafka knows which type are they because of the group ID. Kafka will automatically distribute topic partitions to point to different replicas in the same consumer group (load balancing). If a pod fails, Kafka redirects the topic partition to point to a different pod that is alive.
 
 ![[kafka2.svg|697]]
 
