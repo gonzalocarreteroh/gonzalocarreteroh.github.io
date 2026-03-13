@@ -11,7 +11,11 @@ I'm a [[Computer Science]] and Engineering graduate. I studied at The Hong Kong 
 In my free time, I like playing [[Ultimate Frisbee]] or [[Tennis]], [[Reading]] and learning new things.
 
 > [!NOTE]- Purpose of this website
-> My aim is to share in this website some of my notes on different topics I am interested about, hoping they can be helpful to others. As I am always **learning**, please do verify any important information. In addition, I strive to provide clear **references** to any sources I use to learn (at the top of notes). I would appreciate a lot if you could share with me any potential errors you find. Any collaborations on projects or discussions on any topic are also very welcome! Feel free to reach out to me through any of the social links at the bottom of the page
+> My aim is to share in this website some of my notes on different topics I am interested about, hoping they can be helpful to others. As I am always **learning**, please do verify any important information. 
+> 
+> In addition, I strive to provide clear **references** to any sources I use to learn (at the top of notes). If any owner of these sources believes my notes overlap highly with their work and wish for me to modify or delete my note, please contact me (social links at the bottom of this page) and I will promptly do so.
+> 
+> Reaching out to me regarding any potential errors you find, any collaborations on projects or discussions on any topic is also very welcomed!
 > 
 
 > [!NOTE]- How to use this website
