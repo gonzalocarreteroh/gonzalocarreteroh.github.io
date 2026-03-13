@@ -13,3 +13,6 @@ My work here as a Software Engineer has mainly involved the use of the following
 - [[Kubernetes]], [[Docker]], [[Helm]] \& [[ArgoCD]]
 - [[Git]], [[GitHub]] \& [[GitHub Actions]]
 - [[Bazel]]
+
+Others:
+[[Apache Kafka]]
