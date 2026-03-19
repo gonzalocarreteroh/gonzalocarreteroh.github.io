@@ -25,9 +25,9 @@ P(x_i) = P(X = x_i)
 $$
 That is, $\large P(x_i)$ represents the probability of our random variable $\large X$ resulting in the value $\large x_i$ after carrying out one experiment.
 
-At first, we might not know these values. We could try to approximate them by experimentation. For instance, we throw the dice once. It lands on a "5". To our knowledge, we would think $\large P(5) = 1$ and $\large 0$ for the rest. As we keep throwing the dice and calculating the [[relative frequency]] of each state, by the [[law of large numbers]] we will get closer to the actual real probability for each state. This is defined in the following expression, where $\large n$ is the number of experiments we do:
+At first, we might not know these values. We could try to approximate them by experimentation. For instance, we throw the dice once. It lands on a "5". To our knowledge, we would think $\large P(5) = 1$ and $\large 0$ for the rest. As we keep throwing the dice and calculating the [[relative frequency]] of each state, by the [[law of large numbers]] we will get closer to the actual real probability for each state. This is defined in the following expression, where $\large n$ is the number of experiments we do, and $\large n_{x_i}$ is the number of experiments that resulted in $\large x_i$:
 $$\large
-P(x_i) = \lim_{n \to \infty} \frac{x_i}{n}
+P(x_i) = \lim_{n \to \infty} \frac{n_{x_i}}{n}
 $$
 
 Let us define some other important axioms fundamental to the field of probability:
