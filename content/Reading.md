@@ -8,6 +8,7 @@ Some of the most recent books I have read, in inverse chronological order.
 - **No Coward Soul** - Fred Uhlman (1961)
 - **Reunion** - Fred Uhlman (1960)
 - **The Old Man and the Sea** - Ernest Hemingway (1951)
+- **Breasts and Eggs** - Mieko Kawakami (2019)
 - **Kafka on the Shore** - Haruki Murakami (2002)*
 - **After Dark** - Haruki Murakami (2004)
 - **The Elephant Vanishes** - Haruki Murakami (1993)
