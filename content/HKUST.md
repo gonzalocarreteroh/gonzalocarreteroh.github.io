@@ -18,3 +18,5 @@ I was very fortunate to explore many different cities and countries close to Hon
 - **Taiwan**: Taipei 台北 and Taichung 台中
 - **South Korea**: Seoul 서울, Jeonju 전주, Busan 부산, Gyeongju 경주 and the beautiful Seoraksan 설악산
 - **Vietnam**: Hanoi, Ninh Binh and Halong Bay (Cat Ba)
+
+When I miss some of the food I tried here, I try my best at [[Cooking]] some of these dishes (many times unsuccessfully).
