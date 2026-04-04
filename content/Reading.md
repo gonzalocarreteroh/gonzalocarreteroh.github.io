@@ -9,8 +9,8 @@ Some of the most recent books I have read, in inverse chronological order.
 - [[No Coward Soul]]
 - [[Reunion]]
 - [[The Old Man and the Sea]]
-- [[Breasts and Eggs]]  <span style="color:green">🎁 from my friend Melissa</span>
-- [[Kafka on the Shore]]
+- [[Breasts and Eggs]]*  <span style="color:green">🎁 from my friend Melissa</span>
+- [[Kafka on the Shore]]*
 - [[After Dark]]
 - [[The Elephant Vanishes]]
 - [[Men without Women]]
