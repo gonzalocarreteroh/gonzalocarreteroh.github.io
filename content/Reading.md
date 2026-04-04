@@ -5,6 +5,7 @@ tags:
 ---
 Some of the most recent books I have read, in inverse chronological order.
 
+- [[The Return]]
 - [[No Coward Soul]]
 - [[Reunion]]
 - [[The Old Man and the Sea]]
