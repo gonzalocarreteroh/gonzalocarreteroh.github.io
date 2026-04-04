@@ -10,4 +10,4 @@ tags:
 **Author**: Fred Uhlman
 **Publish Date**: 1997
 
-Third book after [[Reunion]] and [[No Coward Soul]]. While the previous two books tell the same story of a friendship from different points of view, *The Return* shows a man who returns to his hometown in Germany 30 years later after he escaped the war.
+Third book after [[Reunion]] and [[No Coward Soul]]. Tells the story of a man who returns to his hometown in Germany 30 years later after he escaped the war.
