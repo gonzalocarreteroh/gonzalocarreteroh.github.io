@@ -3,6 +3,8 @@ title:
 draft: false
 tags:
 ---
+Related: [[Bayes Theorem]]
+
 Probability can be used as a mathematical tool to obtain insights about the behavior of something.
 ### Environment
 This _something_ is our environment, system, or however you'd like to call it. For instance, sometimes we work with dice, cards, people, the weather...
