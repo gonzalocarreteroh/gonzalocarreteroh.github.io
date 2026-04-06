@@ -41,7 +41,7 @@ Alien without a hat behind a rock:
 
 Then, the alien will ask us "*Which color do you think I am?*".
 
-If the alien were to be hiding behind a tree, giving us no information, then our best bet would just be to guess the most abundant color in the planet. But we do have some valuable information about the alien hiding behind the rock, and we should use it to our advantage.
+If the alien were to be hiding behind a tree, giving us no information at all, then our best bet would just be to guess the most abundant color in the planet. But knowing if it is wearing a hat or not gives us valuable information about the alien hiding, which we should use to our advantage.
 
 ###### Evidence vs Hypothesis
 
