@@ -45,9 +45,9 @@ If the alien were to be hiding behind a tree, giving us no information, then our
 
 ###### Evidence vs Hypothesis
 
-In the game, the evidence $\large E$ will be either $\large E =$ *hat* if we can see a hat, or $\large E =$ *no hat* otherwise, as it is what we can see. Let's simplify the terminology by saying the probability of the alien which decided to hide is wearing a hat or not is $\large P(H)$ and $\large P(\neg H)$ respectively. It is important to keep in mind that in non binary outcomes, we often don't simplify the terminology like this as there may be many states.
+In the game, the evidence $\large E$ will be either $\large E =$ *hat* if we can see a hat, or $\large E =$ *no hat* otherwise, as it is what we can see.
 
-Our hypothesis $\large H$ will be asking ourselves what is the color of the alien hiding, wether $\large H =$ *red*, $\large H =$ *blue* or $\large H =$ *green*. Similarly as before, we will use $\large P(R)$, $\large P(B)$ and $\large P(G)$ respectively.
+Our hypothesis $\large H$ will be asking ourselves what is the color of the alien hiding, wether $\large H =$ *red*, $\large H =$ *blue* or $\large H =$ *green*.
 
 ###### P(H), P(E), P(H ^ E)
 We can start trying to describe our alien population, which will help us answer the question of the game. I like to imagine that I have all the elements of my problem within a rectangle, one after the other.
