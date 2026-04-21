@@ -1,6 +1,6 @@
 ---
 title:
-draft: false
+draft: true
 tags:
 ---
  It is a function that maps elements from a state space to $\large \mathbb{R}$. Random variables are written with upper case letters such as X, Y or Z. It is possible to map two elements from the state space to the same output.

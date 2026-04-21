@@ -1,6 +1,6 @@
 ---
 title:
-draft: false
+draft: true
 tags:
 ---
 Related: [[Bayes Theorem]]

@@ -1,3 +1,8 @@
+---
+title:
+draft: true
+tags:
+---
 Related: [[Cohesion]], [[Software Engineering]]
 
 ---
