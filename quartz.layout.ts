@@ -11,6 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       Email: "mailto:gonzac0512@gmail.com",
       LinkedIn: "https://www.linkedin.com/in/gonzalo-carretero-cs/",
       GitHub: "https://github.com/gonzalocarreteroh",
+      GoogleScholar: "https://scholar.google.es/citations?user=0J_IxjYAAAAJ&hl=en&oi=sra",
     },
   }),
 }
