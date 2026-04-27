@@ -9,3 +9,40 @@ tags:
 
 **Author**: Haruki Murakami
 **Publish Date**: 1993
+
+It's a collection of short stories.
+
+### The Wind-up Bird and Tuesday's Women
+
+### The Second Bakery Attack
+
+### The Kangaroo Communiqué
+
+### On Seeing the 100% Perfect Girl One Beautiful April Morning
+
+### Sleep
+
+### The Fall of the Roman Empire, the 1881 Indian Uprising, Hitler's Invasion of Poland, and the Realm of Raging Winds
+
+### Lederhosen
+
+### Barn Burning
+A South Korean movie was made based on this book. The movie is good, but the ending is different and I would recommend reading the book first.
+
+### The Little Green Monster
+
+### Family Affair
+
+### A Window
+
+### TV People
+
+### A Slow Boat to China
+
+### The Dancing Dwarf
+
+### The Last Lawn of the Afternoon
+
+### The Silence
+
+### The Elephant Vanishes
