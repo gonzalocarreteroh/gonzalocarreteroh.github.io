@@ -3,7 +3,9 @@ title:
 draft: false
 tags:
 ---
-Currently reading: [[Crime and Punishment]] - Fyodor Dostoevsky
+Currently reading: 
+[[Crime and Punishment]] - Fyodor Dostoevsky
+[[Understanding Living Systems]] - Raymond Noble & Denis Noble
 
 Some of the most recent books I have read, in reverse chronological order.
 
