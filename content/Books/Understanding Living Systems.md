@@ -1,3 +1,10 @@
+---
+tags:
+  - Book
+  - RaymondNoble
+  - DenisNoble
+---
+
 <div style="display: flex; justify-content: center; width: 100%; margin: 20px 0;"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDG_MXWTm-OsOsPDKeCZiow81q3colg-Bm-RUGqNWZJAMrrW53jpBpyws-&s=10" style="width: 30%; max-width: 400px; height: auto; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" alt="Book Cover" > </div>
 
 **Author**: Raymond Noble & Denis Noble
