@@ -3,7 +3,7 @@
 **Author**: Raymond Noble & Denis Noble
 **Publish Date**: 2023
 
-The book addresses three misunderstandings of the Modern Synthesis:
+The book addresses four misunderstandings of the Modern Synthesis:
 
 1) Changes in the structure and function of organisms in one generation can not be passed on through the germ line
 2) Organisms can not alter their genes, and thus causation is held to be a one-way process, from gene to organism functionality
