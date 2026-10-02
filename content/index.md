@@ -6,7 +6,7 @@ title: Gonzalo Carretero
 
 Hi! This is my personal website. Please feel free to learn a bit more about me or about some of the topics I write notes about. I hope they can be of help!
 
-I'm a [[MSc Advanced Computing]] student at [[Imperial College London]]. Previously, I did my bachelor's in [[Computer Science]] and Engineering at The Hong Kong University of Science and Technology ([[HKUST]]), the [[University of Waterloo]] and [[UC3M]]. I was also an AI Engineer at [[Orange]].
+I'm an [[MSc Advanced Computing]] student at [[Imperial College London]]. Previously, I did my bachelor's in [[Computer Science]] and Engineering at The Hong Kong University of Science and Technology ([[HKUST]]), the [[University of Waterloo]] and [[UC3M]]. I was also an AI Engineer at [[Orange]].
 
 In my free time, I like playing [[Ultimate Frisbee]] or [[Tennis]], [[Reading]] and learning new things.
 
