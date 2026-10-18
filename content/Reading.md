@@ -5,12 +5,13 @@ tags:
 ---
 Currently reading:
 
-[[Crime and Punishment]] - Fyodor Dostoevsky
+- [[Taiwan Travelogue]] - Yang Shuang-zi
 
 Some of the most recent books I have read, in reverse chronological order.
 
 | Title                                    | Author                      |
 | :--------------------------------------- | :-------------------------- |
+| [[Crime and Punishment]]                 | Fyodor Dostoevsky           |
 | [[Understanding Living Systems]]         | Raymond Noble & Denis Noble |
 | [[The Return]]                           | Fred Uhlman                 |
 | [[No Coward Soul]]                       | Fred Uhlman                 |
